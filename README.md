@@ -1,2 +1,2 @@
 # Cartography
-A repository for JavaScript map samples
+A repository of JavaScript map samples

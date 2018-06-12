@@ -1,7 +1,7 @@
 // An interactive map of LA's Metro System 
 // Made using Mapbox
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiYW1hZGFuaSIsImEiOiJjamNyNDdpZmQwOWhwMnhrY2RlaG1kN3pnIn0.T5vKsyQ_4BCO_oXNIp3MJg';
+mapboxgl.accessToken = '<ACCESS TOKEN>';
 
 var bounds = [
 	[-118.708604, 33.670143], // Southwest coordinates

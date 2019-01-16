@@ -1,7 +1,7 @@
 // Interactive heatmap of SF's homelessness complaints via 311
 // Made Using Mapbox 
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiYW1hZGFuaSIsImEiOiJjamNyNDdpZmQwOWhwMnhrY2RlaG1kN3pnIn0.T5vKsyQ_4BCO_oXNIp3MJg';
+mapboxgl.accessToken = <TOKEN>;
 
 var bounds = [
 	[-122.573738, 37.678823], // Southwest coordinates
